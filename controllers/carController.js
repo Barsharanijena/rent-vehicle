@@ -1,4 +1,4 @@
-// carController.js
+
 
 const { validationResult } = require('express-validator');
 const Car = require('../models/car');
